@@ -66,6 +66,19 @@ Financial transaction analysis project developed using Python, SQL and Power BI 
 
 ---
 
+## Preguntas de Negocio
+
+El dashboard fue diseñado para responder las siguientes preguntas:
+
+* ¿Cómo se distribuyen los gastos entre las diferentes categorías?
+    grafico categorias
+* ¿Qué clientes presentan un mayor nivel de gasto?
+    Top clients
+* ¿Qué métodos de transacción son los más utilizados?
+    donut chart
+* ¿Cuál es el balance financiero general de las transacciones analizadas?
+    KPIs
+
 ## Autor
 
 Barbra Sanchez Fuentes
